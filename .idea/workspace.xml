@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cf202b7-b369-4b3e-b1d5-61884edea1ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Validacao.java" afterDir="false" />
+    <list default="true" id="8cf202b7-b369-4b3e-b1d5-61884edea1ae" name="Changes" comment="Validação do cpf e turismo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Validacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Validacao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +34,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "Z:/LPAP/Viagens2E"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,8 +51,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693399078043</updated>
-      <workItem from="1693399082867" duration="3083000" />
+      <workItem from="1693399082867" duration="3477000" />
+      <workItem from="1695119415887" duration="989000" />
+      <workItem from="1695120573041" duration="2056000" />
     </task>
+    <task id="LOCAL-00001" summary="Validação do cpf e turismo">
+      <created>1693404209396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693404209396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Validação do cpf e turismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validação do cpf e turismo" />
   </component>
 </project>
